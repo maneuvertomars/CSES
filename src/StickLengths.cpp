@@ -60,10 +60,7 @@ using namespace std;
 #define ff first
 #define ss second
 #define ll long long
- 
-void see(multiset<int> &h){
-    for(auto &it:h) cout<<it<<' ';cout<<endl;
-}
+
 void solve(){
     int n;
     cin>>n;
